@@ -1,0 +1,115 @@
+{
+    "lists" : [
+        {
+            "id": 1,
+            "name": "Quiosco App",
+            "url": "quiosco-app",
+            "order": "01",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814048/medium_project11_42a0423078.png"
+        },
+        {
+            "id": 2,
+            "name": "UpTask",
+            "url": "up-task",
+            "order": "02",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814077/medium_project12_b976638b49.png"
+        },
+        {
+            "id": 3,
+            "name": "Guitar-LA",
+            "url": "guitar-la",
+            "order": "03",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692813722/medium_project5_2b91dd30a6.png"
+        },
+        {
+            "id": 4,
+            "name": "DevWebCamp",
+            "url": "dev-web-camp",
+            "order": "04",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814113/medium_project14_28a0ef2b5d.png"
+        },
+        {
+            "id": 5,
+            "name": "Expense Control",
+            "url": "expense-control",
+            "order": "07",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814136/medium_project2_19daa6584e.png"
+        },
+        {
+            "id": 6,
+            "name": "Bienes Raices",
+            "url": "bienes-raices",
+            "order": "06",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814251/medium_project15_39ce4fb3e6.png"
+        },
+        {
+            "id": 7,
+            "name": "Appointment Control",
+            "url": "appointment-control",
+            "order": "08",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814306/medium_project1_5ba94937e8.png"
+        },
+        {
+            "id": 8,
+            "name": "Drink Finder",
+            "url": "drink-finder",
+            "order": "09",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814395/medium_project10_ba614eac6b.png"
+        },
+        {
+            "id": 9,
+            "name": "Lyrics Finder",
+            "url": "lyrics-finder",
+            "order": "10",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814428/medium_project7_0943a832f7.png"
+        },
+        {
+            "id": 10,
+            "name": "Crypto Quoter",
+            "url": "crypto-quoter",
+            "order": "11",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814457/medium_project3_450cdc8899.png"
+        },
+        {
+            "id": 11,
+            "name": "Clima App",
+            "url": "clima-app",
+            "order": "12",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814528/medium_project8_6b11932355.png"
+        },
+        {
+            "id": 12,
+            "name": "Cotizador Automóvil",
+            "url": "cotizador-automovil",
+            "order": "13",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814558/medium_project6_7629d37bdf.png"
+        },
+        {
+            "id": 13,
+            "name": "Noticias App",
+            "url": "noticias-api",
+            "order": "13",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814595/medium_project9_a4a9cc14f3.png"
+        },
+        {
+            "id": 14,
+            "name": "Administrador Clientes",
+            "url": "administrador-clientes",
+            "order": "14",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1692814641/large_project4_8951cae138.png"
+        }
+    ],
+    "abouts" : [
+        {
+            "text": "Hello! My name is Jorge and I enjoy creating applications and web pages. My interest in web development began in 2020 when I saw the great works that a friend had developed, since then a great curiosity in the world of web development grew in me. Before this unexpected interest, I worked for over a year in a company that was dedicated to creating systems with Oracle, nevertheless, I felt that I needed to learn something new. And here you are reading my portfolio.\n\nEach project in which I have the privilege of working is a new opportunity to learn new things, in this period of time I have met people who are at a more advanced level than me, and without them knowing it, they are motivation for me!\n\nBut it's not all work, right? In my free time I love listening to music, playing video games, watching movies with very, BUT VERY good stories. I like to have a healthy life and breathe fresh air, I go hiking from time to time. I hope you enjoy these photos as much as I do: ",
+            "description": "I am available for full-time roles and freelance projects around the world. As long as they don't mind watching me work from remote screens, unless the workplace is in Caracas-Venezuela. These are the languages and technologies that I have dominated.",
+            "photo_1": "https://res.cloudinary.com/cloudjt8/image/upload/v1692817466/AVILA_1_2bbc6896b3.jpg",
+            "photo_2": "https://res.cloudinary.com/cloudjt8/image/upload/v1692817478/AVILA_2_021254e0dd.jpg"
+        }
+    ],
+    "contacts" : [
+        {
+            "text": "I look for opportunities to collaborate with companies/agencies/individuals, not just work for work. I want to feel that I am part of the work to be done, learning new technologies and implementing my previous knowledge and, above all, giving my best effort so that everything goes well."    
+        }
+    ]
+}
